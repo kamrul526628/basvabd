@@ -1,0 +1,17 @@
+.bg-color{
+    background-color: #1B2430;
+}
+.container a{
+    color: white;
+}
+.banner{
+    background-color: #1B2430;
+    height: 600px;
+}
+.header{
+    text-align: center;
+    color: white;
+}
+.footer{
+    background-color: #1B2430;
+}
